@@ -3,8 +3,11 @@
 // C# Array: Exercises, Practice, Solution
 // https://www.w3resource.com/csharp-exercises/array/index.php
 
+// 4
+CopyElements.CopyElementsIntoAnotherArray();
+
 // 3
-SumOfArrayElements.Sum();
+//SumOfArrayElements.Sum();
 
 // 2
 //ReadValuesAndReverse.ReadElementsAndReverse();
