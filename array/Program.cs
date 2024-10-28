@@ -3,8 +3,11 @@
 // C# Array: Exercises, Practice, Solution
 // https://www.w3resource.com/csharp-exercises/array/index.php
 
+// 6
+UniqueElements.FindDuplicateElements();
+
 // 5
-CountElements.CountDuplicateElements();
+//CountElements.CountDuplicateElements();
 //CountElements.Main();
 
 // 4
