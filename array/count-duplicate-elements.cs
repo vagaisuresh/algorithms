@@ -127,7 +127,7 @@ public class CountElements
 
     // Actual Solution
 
-    public static void Main()  // Main method, entry point of the program
+    public static void MainSolution()  // Main method, entry point of the program
     {
         int[] arr1 = new int[100];  // Declaration of an integer array 'arr1' with size 100
         int[] arr2 = new int[100];  // Declaration of another integer array 'arr2' with size 100

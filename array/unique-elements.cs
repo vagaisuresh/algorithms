@@ -12,6 +12,9 @@
     The unique elements found in the array are :
 */
 
+// Solved using LINQ
+// Can solve using Dictionary & For loop (refer count-duplicate-elements.cs)
+
 namespace ArrayAlgorithms;
 
 public class UniqueElements
