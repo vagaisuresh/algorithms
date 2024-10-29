@@ -60,12 +60,35 @@ public class MergeArrays
             j++;
         }
 
-        Array.Sort(mergedArray);
+        // Using in-build Sort method in Array class
+        //Array.Sort(mergedArray);
+
+        // Using bubble sort algorithm
+        BubbleSort(mergedArray);
+
         Console.WriteLine("The merged array in ascending order is:");
 
         foreach (int element in mergedArray)
         {
             Console.Write("{0} ", element);
+        }
+    }
+
+    static void BubbleSort(int[] mergedArray)
+    {
+        int n = mergedArray.Length;
+
+        for (int i = 0; i < n; i++)
+        {
+            for (int j = 0; j < n - 1; j++)
+            {
+                if (mergedArray[j] >= mergedArray[j + 1])
+                {
+                    int temp = mergedArray[j];
+                    mergedArray[j] = mergedArray[j + 1];
+                    mergedArray[j + 1] = temp;
+                }
+            }
         }
     }
 }
