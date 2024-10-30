@@ -3,8 +3,11 @@
 // C# Array: Exercises, Practice, Solution
 // https://www.w3resource.com/csharp-exercises/array/index.php
 
+// 8
+CountFrequency.FrequencyOfEachElements();
+
 // 7
-MergeArrays.MergeTwoArrays();
+//MergeArrays.MergeTwoArrays();
 
 // 6
 //UniqueElements.FindDuplicateElements();
