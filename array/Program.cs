@@ -3,8 +3,11 @@
 // C# Array: Exercises, Practice, Solution
 // https://www.w3resource.com/csharp-exercises/array/index.php
 
+// 9
+MinMax.FindMinimumAndMaximum();
+
 // 8
-CountFrequency.FrequencyOfEachElements();
+//CountFrequency.FrequencyOfEachElements();
 
 // 7
 //MergeArrays.MergeTwoArrays();
