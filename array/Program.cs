@@ -3,8 +3,11 @@
 // C# Array: Exercises, Practice, Solution
 // https://www.w3resource.com/csharp-exercises/array/index.php
 
+// 11 sort-elements-ascending-order
+SortElements.SortElementsAscendingOrder();
+
 // 10
-OddEvenElement.FindOddAndEven();
+//OddEvenElement.FindOddAndEven();
 
 // 9
 //MinMax.FindMinimumAndMaximum();
@@ -12,7 +15,7 @@ OddEvenElement.FindOddAndEven();
 // 8
 //CountFrequency.FrequencyOfEachElements();
 
-// 7
+// 7 merge-two-arrays
 //MergeArrays.MergeTwoArrays();
 
 // 6
