@@ -2,9 +2,12 @@
 
 // C# Array: Exercises, Practice, Solution
 // https://www.w3resource.com/csharp-exercises/array/index.php
+Sort.SortDescendingOrder();
+
+// 12 sort-elements-descending-order
 
 // 11 sort-elements-ascending-order
-SortElements.SortElementsAscendingOrder();
+//SortElements.SortElementsAscendingOrder();
 
 // 10
 //OddEvenElement.FindOddAndEven();
