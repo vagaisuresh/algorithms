@@ -3,8 +3,11 @@
 // C# Array: Exercises, Practice, Solution
 // https://www.w3resource.com/csharp-exercises/array/index.php
 
+// 15 (delete-an-element.cs)
+DeleteArrayElement.DeleteAnElement();
+
 // 14 (insert-value-particular-location.cs)
-InsertValue.InsertValueIntoParticularLocation();
+//InsertValue.InsertValueIntoParticularLocation();
 
 // 13 (insert-an-additional-value.cs)
 //Insert.InsertAdditionalElement();
