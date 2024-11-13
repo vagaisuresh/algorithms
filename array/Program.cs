@@ -3,8 +3,11 @@
 // C# Array: Exercises, Practice, Solution
 // https://www.w3resource.com/csharp-exercises/array/index.php
 
+// 17 (find-the-second-smallest-element.cs)
+FindSmallest.SecondSmallestElement();
+
 // 16 (find-the-second-largest-element.cs)
-FindLargest.FindSecondLargestElement();
+//FindLargest.FindSecondLargestElement();
 
 // 15 (delete-an-element.cs)
 //DeleteArrayElement.DeleteAnElement();
