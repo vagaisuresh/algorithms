@@ -3,8 +3,11 @@
 // C# Array: Exercises, Practice, Solution
 // https://www.w3resource.com/csharp-exercises/array/index.php
 
+// 16 (find-the-second-largest-element.cs)
+FindLargest.FindSecondLargestElement();
+
 // 15 (delete-an-element.cs)
-DeleteArrayElement.DeleteAnElement();
+//DeleteArrayElement.DeleteAnElement();
 
 // 14 (insert-value-particular-location.cs)
 //InsertValue.InsertValueIntoParticularLocation();
