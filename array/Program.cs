@@ -3,8 +3,11 @@
 // C# Array: Exercises, Practice, Solution
 // https://www.w3resource.com/csharp-exercises/array/index.php
 
+// 18 (print-the-matrix-2d.cs)
+PrintMatrix.PrintMatrix2D();
+
 // 17 (find-the-second-smallest-element.cs)
-FindSmallest.SecondSmallestElement();
+//FindSmallest.SecondSmallestElement();
 
 // 16 (find-the-second-largest-element.cs)
 //FindLargest.FindSecondLargestElement();
