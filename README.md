@@ -6,7 +6,10 @@ C# Array
 3) Write a program in C# Sharp to find the sum of all array elements.
 4) Write a C# Sharp program to copy the elements of one array into another array.
 5) Write a C# Sharp program in to count duplicate elements in an array.
-6) 
-7) Read a 2D array of size 3x3 and print the matrix.
+6) Write a program in C# Sharp to print all unique elements in an array.
+7) Write a C# Sharp program to merge two arrays of the same size sorted in ascending order.
+8) 
+9) Write a program in C# Sharp for a 2D array of size 3x3 and print the matrix.
+10) Write a C# Sharp program for adding two matrices of the same size.
 
 Credit: www.w3resource.com
