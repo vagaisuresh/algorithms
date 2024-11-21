@@ -3,8 +3,11 @@
 // C# Array: Exercises, Practice, Solution
 // https://www.w3resource.com/csharp-exercises/array/index.php
 
+// 20 (subtraction-two-matrixes.cs)
+TwoDimArray.SubtractionTwoMatrixes();
+
 // 19 (adding-two-matrices.cs)
-AddMatrix.AddTwoMatrix();
+//AddMatrix.AddTwoMatrix();
 
 // 18 (print-the-matrix-2d.cs)
 //PrintMatrix.PrintMatrix2D();
