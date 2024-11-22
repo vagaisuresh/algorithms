@@ -11,9 +11,16 @@ C# Array
 8) Write a C# Sharp program to count the frequency of each element in an array.
 9) Write a C# Sharp program to find the maximum and minimum elements in an array.
 10) Write a program in C# Sharp to separate odd and even integers into separate arrays.
-11) 
-12) Write a program in C# Sharp for a 2D array of size 3x3 and print the matrix.
-13) Write a C# Sharp program for adding two matrices of the same size.
-14) Write a C# Sharp program for the subtraction of two matrixes.
+11) Write a C# Sharp program to sort elements of an array in ascending order.
+12) Write a C# Sharp program to sort array elements in descending order.
+13) Write a C# Sharp program to insert an additional value into an array (sorted list).
+14) Write a C# Sharp program to insert another value in the array (unsorted list).
+15) Write a C# Sharp program to delete an element at the desired position from an array.
+16) Write a C# Sharp program to find the second largest element in an array.
+17) Write a C# Sharp program to find the second smallest element in an array.
+18) Write a program in C# Sharp for a 2D array of size 3x3 and print the matrix.
+19) Write a C# Sharp program for adding two matrices of the same size.
+20) Write a C# Sharp program for the subtraction of two matrixes.
+21) Write a C# Sharp program for multiplication of two square matrices.
 
 Credit: www.w3resource.com
