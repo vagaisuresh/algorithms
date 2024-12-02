@@ -22,5 +22,6 @@ C# Array
 19) Write a C# Sharp program for adding two matrices of the same size.
 20) Write a C# Sharp program for the subtraction of two matrixes.
 21) Write a C# Sharp program for multiplication of two square matrices.
+22) Write a C# Sharp program to find the transpose of a given matrix.
 
 Credit: www.w3resource.com
