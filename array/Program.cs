@@ -3,8 +3,11 @@
 // C# Array: Exercises, Practice, Solution
 // https://www.w3resource.com/csharp-exercises/array/index.php
 
+// 22 transpose-given-matrix.cs
+Transpose.TransposeMatrix();
+
 // 21 (multiplication-two-matrices.cs)
-MultiplicationTwoArray.MultiplicationTwoMatrices();
+//MultiplicationTwoArray.MultiplicationTwoMatrices();
 
 // 20 (subtraction-two-matrixes.cs)
 //TwoDimArray.SubtractionTwoMatrixes();
