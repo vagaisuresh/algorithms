@@ -3,8 +3,11 @@
 
 using BasicAlgorithm;
 
+// 3. Check 30 or Sum Equals 30
+Console.WriteLine(CheckIntegerOrSumEquals.SumEqueals());
+
 // 2. Absolute Difference with Triple for Greater
-AbsoluteDifference.FindAbsoluteDifference();
+//AbsoluteDifference.FindAbsoluteDifference();
 
 // 1. Triple Sum for Equal Integers
 //TripleSum.Sum();
