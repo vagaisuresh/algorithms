@@ -3,8 +3,11 @@
 // C# Array: Exercises, Practice, Solution
 // https://www.w3resource.com/csharp-exercises/array/index.php
 
+// 24. Write a C# Sharp program to find the sum of the left diagonals of a matrix.
+SumOfDiagonals.Sum();
+
 // 23 Write a C# Sharp program to find the sum of the right diagonals of a matrix.
-SumTheRightDiagonals.SumRightDiagonalsValue();
+//SumTheRightDiagonals.SumRightDiagonalsValue();
 
 // 22 (transpose-given-matrix.cs)
 //Transpose.TransposeMatrix();
