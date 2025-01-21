@@ -3,8 +3,11 @@
 
 using BasicAlgorithm;
 
+// 5. Add 'if' to String if Absent
+Console.WriteLine(StringProgram.AddIfToString("statement"));
+
 // 4. Within 10 of 100 or 200
-Console.WriteLine(MathAbs.CheckIntegerWithinAbs(189));
+//Console.WriteLine(MathAbs.CheckIntegerWithinAbs(189));
 
 // 3. Check 30 or Sum Equals 30
 //Console.WriteLine(CheckIntegerOrSumEquals.SumEqueals());
